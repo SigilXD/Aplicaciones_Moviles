@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "893499203472",
+    "firebase_url": "https://crud-firebase-musica.firebaseio.com",
+    "project_id": "crud-firebase-musica",
+    "storage_bucket": "crud-firebase-musica.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:893499203472:android:cc6c9c5e5a8576bfb2dd15",
+        "android_client_info": {
+          "package_name": "com.example.crudfirebasemusica"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "893499203472-lrhatlcf5n3onp6p17gkmkd1gtmn84no.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnWHABqXCJVlEWHEziwm2TNawwFSNBuA0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "893499203472-lrhatlcf5n3onp6p17gkmkd1gtmn84no.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
